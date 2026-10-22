@@ -2,7 +2,7 @@
 
 <p align="center">
   Predicting Apple's next-day closing price from historical data<br>
-  <b>Data Science Internship · Task 2</b>
+  <b>Arch Technologies · Data Science Internship · Task 2</b>
 </p>
 
 <p align="center">
