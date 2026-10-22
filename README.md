@@ -150,7 +150,7 @@ Python · pandas · NumPy · matplotlib · seaborn · scikit-learn · Jupyter
 Data Science Intern
 
 - GitHub: [@AreejSimab](https://github.com/AreejSimab)
-- LinkedIn: _add your link_
+- LinkedIn: www.linkedin.com/in/areej-simab-3718502a3
 
 ## 📄 License
 
