@@ -22,8 +22,8 @@ This project builds a **supervised regression** model that predicts Apple's clos
 The Kaggle dataset covers **11,276 trading days** (December 1980 to September 2025). The data has no ready-made answer column, so the target was created from the history: for each day, the target is the *following day's* closing price. The data was split **by time** (never shuffled) so the model is tested only on days that come after the ones it learned from.
 
 **Key finding**
-- ✅ On the test period (Sep 2016 to Sep 2025) the model's average error was **$1.50** and its **R² was 0.9987**.
-- ⚠️ A naive baseline that simply predicts "tomorrow's close = today's close" scored **almost exactly the same**. The model tracks the price very closely, but it adds almost nothing beyond repeating the current price.
+- On the test period (Sep 2016 to Sep 2025) the model's average error was **$1.50** and its **R² was 0.9987**.
+- A naive baseline that simply predicts "tomorrow's close = today's close" scored **almost exactly the same**. The model tracks the price very closely, but it adds almost nothing beyond repeating the current price.
 
 ## 📊 Results
 
